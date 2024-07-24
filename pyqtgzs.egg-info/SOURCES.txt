@@ -1,0 +1,7 @@
+setup.py
+pyqtgzs/__init__.py
+pyqtgzs.egg-info/PKG-INFO
+pyqtgzs.egg-info/SOURCES.txt
+pyqtgzs.egg-info/dependency_links.txt
+pyqtgzs.egg-info/not-zip-safe
+pyqtgzs.egg-info/top_level.txt
